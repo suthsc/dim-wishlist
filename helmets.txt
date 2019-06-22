@@ -1,0 +1,59 @@
+// Helmet - shotgun targeting, shotgun reserves
+dimwishlist:item=45&perks=433757560,1068909436
+
+// Helmet - shotgun targeting, special ammo finder
+dimwishlist:item=45&perks=433757560,2620835322
+
+// Helmet - pump action, shotgun reserves
+dimwishlist:item=45&perks=1608112177,1068909436
+
+// Helmet - pump action, special ammo finder
+dimwishlist:item=45&perks=1608112177,2620835322
+
+// Helmet - (enhanced) sniper rifle targeting, sniper rifle reserves
+dimwishlist:item=45&perks=395489854,1180144002
+dimwishlist:item=45&perks=1983861079,1180144002
+
+// Helmet - (enhanced) sniper rifle targeting, special ammo finder
+dimwishlist:item=45&perks=395489854,2620835322
+dimwishlist:item=45&perks=1983861079,2620835322
+
+// Helmet - remote connection, sniper rifle reserves
+dimwishlist:item=45&perks=2196878528,1180144002
+
+// Helmet - remote connection, special ammo finder
+dimwishlist:item=45&perks=2196878528,2620835322
+
+// Helmet - fusion rifle targeting, fusion rifle reserves
+dimwishlist:item=45&perks=2138431565,4034210761
+
+// Helmet - light reactor, fusion rifle reserves
+dimwishlist:item=45&perks=514613051,4034210761
+
+// Helmet - fusion rifle targeting, special ammo finder
+dimwishlist:item=45&perks=2138431565,2620835322
+
+// Helmet - light reactor, special ammo finder
+dimwishlist:item=45&perks=514613051,2620835322
+
+// Helmet - (enhanced) hand cannon targeting, shotgun reserves
+dimwishlist:item=45&perks=304186389,1068909436
+dimwishlist:item=45&perks=1356474366,1068909436
+
+// Helmet - (enhanced) hand cannon targeting, sniper rifle reserves
+dimwishlist:item=45&perks=304186389,1180144002
+dimwishlist:item=45&perks=1356474366,1180144002
+
+// Helmet - (enhanced) hand cannon targeting, fusion rifle reserves
+dimwishlist:item=45&perks=304186389,4034210761
+dimwishlist:item=45&perks=1356474366,4034210761
+
+// Helmet - (enhanced) hand cannon targeting, special ammo finder
+dimwishlist:item=45&perks=304186389,2620835322
+dimwishlist:item=45&perks=1356474366,2620835322
+
+// Helmet - submachine gun targeting, submachine gun reserves
+dimwishlist:item=45&perks=159084247,3975312523
+
+// Helmet - submachine gun targeting, submachine gun reserves
+dimwishlist:item=45&perks=159084247,3975312523
