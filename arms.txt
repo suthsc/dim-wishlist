@@ -21,12 +21,22 @@ dimwishlist:item=46&perks=3035639340,2600330634
 // arms - (enhanced) hand cannon loader, shotgun scavenger
 dimwishlist:item=46&perks=136210645,1066067378
 dimwishlist:item=46&perks=3035639340,1066067378
+// arms - (enhanced) hand cannon loader, fusion rifle scavenger
+dimwishlist:item=46&perks=136210645,127731051
+dimwishlist:item=46&perks=3035639340,127731051
 // arms - (enhanced) hand cannon loader, special ammo finder
 dimwishlist:item=46&perks=136210645,2620835322
 dimwishlist:item=46&perks=3035639340,2620835322
 // arms - (enhanced) hand cannon loader, heavy ammo finder
 dimwishlist:item=46&perks=136210645,2867719094
 dimwishlist:item=46&perks=3035639340,2867719094
+
+// arms - fusion rifle loader, fusion rifle scavenger
+dimwishlist:item=46&perks=546936951,127731051
+// arms - fusion rifle loader, special ammo finder
+dimwishlist:item=46&perks=546936951,2620835322
+// arms - fusion rifle loader, heavy ammo finder
+dimwishlist:item=46&perks=546936951,2867719094
 
 // arms - submachine gun loader, sniper rifle scavenger
 dimwishlist:item=46&perks=3520605595,2600330634
@@ -38,13 +48,13 @@ dimwishlist:item=46&perks=3520605595,2620835322
 dimwishlist:item=46&perks=3520605595,2867719094
 
 // arms - (enhanced) grenade launcher loader, grenade launcher scavenger
-dimwishlist:item=46&perks=3520605595,866518141
+dimwishlist:item=46&perks=1809014285,866518141
 dimwishlist:item=46&perks=994729458,866518141
 // arms - (enhanced) submachine gun loader, special ammo finder
-dimwishlist:item=46&perks=3520605595,2620835322
+dimwishlist:item=46&perks=1809014285,2620835322
 dimwishlist:item=46&perks=994729458,2620835322
 // arms - (enhanced) submachine gun loader, heavy ammo finder
-dimwishlist:item=46&perks=3520605595,2867719094
+dimwishlist:item=46&perks=1809014285,2867719094
 dimwishlist:item=46&perks=994729458,2867719094
 
 // arms - machine gun loader, machine gun scavenger
